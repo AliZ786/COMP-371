@@ -1,0 +1,38 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"projectIndex" : 0,
+					"source" : "."
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Concordia Work/Semester 7 (Summer 2020)/COMP 371- Computer Graphics/Labs/Lab02/Lab_Framework/ThirdParty/glm/glm/out/build/x64-Debug",
+		"source" : "D:/Concordia Work/Semester 7 (Summer 2020)/COMP 371- Computer Graphics/Labs/Lab02/Lab_Framework/ThirdParty/glm/glm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

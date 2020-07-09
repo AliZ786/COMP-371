@@ -1,0 +1,4 @@
+﻿  lab02.cpp
+D:\Concordia Work\Semester 7 (Summer 2020)\COMP 371- Computer Graphics\Labs\Lab02\Lab_Framework\Source\lab02.cpp(214,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Concordia Work\Semester 7 (Summer 2020)\COMP 371- Computer Graphics\Labs\Lab02\Lab_Framework\Source\lab02.cpp(226,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Labs.vcxproj -> D:\Concordia Work\Semester 7 (Summer 2020)\COMP 371- Computer Graphics\Labs\Lab02\Lab_Framework\VS2017\/../Bin/Labs-Debug.exe
